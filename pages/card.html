@@ -380,20 +380,20 @@
             });
         });
 
-           // gotop
-           $(window).scroll(function(){
-                var scrollValue = $(document).scrollTop()
+        // gotop
+        $(window).scroll(function(){
+            var scrollValue = $(document).scrollTop()
 
-                if(scrollValue>300){
-                    $('.gotop').fadeIn()
-                }else{
-                    $('.gotop').fadeOut()
-                }
-             })
-
-            $('.gotop').on('click',function(){
-                $('html,body').animate({scrollTop:0})
+            if(scrollValue>300){
+                $('.gotop').fadeIn()
+            }else{
+                $('.gotop').fadeOut()
+            }
             })
+
+        $('.gotop').on('click',function(){
+            $('html,body').animate({scrollTop:0})
+        })
 
             
     </script>
