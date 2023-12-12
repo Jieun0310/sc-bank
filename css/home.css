@@ -103,6 +103,7 @@
 
 .slick-dots li button::before{
     content: '';
+    background-color: transparent;
     
 }
 
