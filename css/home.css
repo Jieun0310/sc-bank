@@ -70,7 +70,7 @@
     left: 50%;
     transform: translate(-50%,-50%);
     display: flex;
-    gap: 1000px;
+    gap: 1200px;
     justify-content: space-between; 
 } 
 
