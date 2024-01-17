@@ -27,12 +27,6 @@ HTML과 CSS의 기본에 충실하였으며 간단한 구조와 레이아웃으�
 
       ㆍ Swipe_slider
 
-#### 4. UI/UX 향상:
-
-    ㆍ 사용자 경험을 향상시키는 애니메이션 또는 효과 
-
-     ㆍ 반응형 웹사이트
-
 ## 🌐사용 언어
 
 - HTML
@@ -45,5 +39,5 @@ HTML과 CSS의 기본에 충실하였으며 간단한 구조와 레이아웃으�
 정지은 - jieun.jung0310@gmail.com
 
 project link:
-[[https://github.com/Jieun0310/Jieun_website.git](http://127.0.0.1:5501/pages/main.html)http://127.0.0.1:5501/pages/main.html](http://127.0.0.1:5502/pages/event.html)http://127.0.0.1:5502/pages/event.html
+[[[https://github.com/Jieun0310/Jieun_website.git](http://127.0.0.1:5501/pages/main.html)http://127.0.0.1:5501/pages/main.html](http://127.0.0.1:5502/pages/event.html)http://127.0.0.1:5502/pages/event.html](http://127.0.0.1:5501/pages/home.html)http://127.0.0.1:5501/pages/home.html
 
